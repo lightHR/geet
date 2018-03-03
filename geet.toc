@@ -1,4 +1,0 @@
-\select@language {hindi}
-\contentsline {chapter}{\numberline {1}प्रेरणा}{5}
-\contentsline {section}{\numberline {1.1}शपथ लेना तो सरल है}{5}
-\contentsline {section}{\numberline {1.2}चरैवेति-चरैवेति, यही तो मंत्र है अपना}{5}
